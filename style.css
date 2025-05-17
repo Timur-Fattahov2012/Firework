@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:skyblue;
+}
+
+header img {
+    padding:10px;
+}
+
+h1 {
+    color:orange;
+    font-size:30px;
+}
+
+footer p {
+    background-color:lime;
+}
+
+nav {
+    background-color:green;
+    border-radius:10px;
+    padding:10px;
+    }
+
+nav a {
+        text-decoration:none;
+        color:white;
+        padding:30px;
+    }
+
+.pimg {
+        background-color:chocolate;
+        border-radius:10px;
+        padding:10px;
+        color:white;
+    }
+
+main {
+        padding:50px;
+    }
+
+h2 {
+        color:blue;
+    }
+
+p a {
+        text-decoration:none;
+        border:3px solid blue;
+        padding:5px;
+    }
+
+.contact {
+        text-decoration:none;
+        border:3px solid blue;
+        padding:5px
+}
